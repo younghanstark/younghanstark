@@ -1,9 +1,6 @@
 - 👋 Wassup! I’m @younghanstark
-- 💻 I’m currently an undergraduate student majoring computer science in the College of Engineering at Yonsei University.
-- 🪖 I'm doing military service as a military police KATUSA(Korean Augmentation To U.S. Army) at 557th MP CO, 94th MP BN, 19th ESC, Eighth U. S. Army.
-- 💡 I'm interested in competitive programming, web services, and artificial intelligence.
-
-[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=developerhan)](https://solved.ac/developerhan)
+- 💻 I’m an undergraduate researcher at Yonsei University, Seoul, South Korea and The University of Texas at Austin.
+- ✨ Please refer to my [CV](https://younghanstark.github.io/assets/files/cv.pdf) for more information!
 
 <!---
 younghanstark/younghanstark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
